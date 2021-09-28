@@ -1,10 +1,13 @@
-Metadata-Version: 1.0
+Metadata-Version: 2.1
 Name: tkinterstylize
-Version: 0.0.4
+Version: 0.0.5
 Summary: Stylize Tkinter
 Home-page: https://github.com/georgerahul24/tkinterstylize
 Author: GR
 Author-email: georgerahul24@gmail.com
 License: MIT
-Description: UNKNOWN
 Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+

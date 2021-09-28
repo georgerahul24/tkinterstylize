@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='tkinterstylize',
-    version='0.0.4',
+    version='0.0.5',
     packages=['tkinterstylize'],
     url='https://github.com/georgerahul24/tkinterstylize',
     license='MIT',
