@@ -10,10 +10,10 @@ def colours(fg1, bg1):
     fg, bg = fg1, bg1
 
 
-def _button(root, text="", command=None, font="Comic Sans MS", size=15,relief='ridge',fg1=None,bg1=None):
+def TButton(root, text="", command=None, font="Comic Sans MS", size=18, relief='ridge', fg1=None, bg1=None):
     # Customise Here
     # fg=text color
-    # bg=backgeound colour
+    # bg=background colour
     # relief=button shape and all...see net..
     # valathum venki ankane...
     # u can bind it to give hover
@@ -39,7 +39,7 @@ def _button(root, text="", command=None, font="Comic Sans MS", size=15,relief='r
     return b
 
 
-def _label(root: object, text: str = "", font="Comic Sans MS", size=15,fg1=None,bg1=None) -> object:
+def TLabel(root: object, text ="", font="Comic Sans MS", size=15, fg1=None, bg1=None) -> object:
     # Customise Here
     # fg=text color
     # bg=backgeound colour
