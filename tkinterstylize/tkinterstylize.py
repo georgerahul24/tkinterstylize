@@ -11,12 +11,12 @@ def colours(fg1, bg1):
 
 
 def TButton(root, text="", command=None, font="Comic Sans MS", size=18, relief='ridge', fg1=None, bg1=None):
-    # Customise Here
+    
     # fg=text color
     # bg=background colour
-    # relief=button shape and all...see net..
-    # valathum venki ankane...
+    # relief=button shape and all.
     # u can bind it to give hover
+    
     if fg1 is None:
         fg1 = fg
     if bg1 is None:
@@ -40,10 +40,10 @@ def TButton(root, text="", command=None, font="Comic Sans MS", size=18, relief='
 
 
 def TLabel(root: object, text ="", font="Comic Sans MS", size=15, fg1=None, bg1=None) -> object:
-    # Customise Here
+    
     # fg=text color
     # bg=backgeound colour
-    # valathum venki ankane...
+    
     if fg1 is None:
         fg1=fg
     if bg1 is None:
